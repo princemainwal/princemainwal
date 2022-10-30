@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @princemainwal
 - 👀 I’m interested in ...cinema,music,travel
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...iris hashing network
-- 📫 How to reach me ...7983140223
+- 🌱 I’m currently learning ...python and LIFE
+
 
 <!---
 princemainwal/princemainwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
